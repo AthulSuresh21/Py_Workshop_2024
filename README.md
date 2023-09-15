@@ -1,11 +1,9 @@
 # Scientific_computing
 This repository contains the problem sets, scripts, notebooks and other stuff pertaining to Drexel Physics Computing Workshop 2023.
 The following topics will be covered in the workshop:
-1. Basic python and algorithmic approach. (3 hours)
-2. Numpy and matplotlib (4 hours)
-4. Scipy and sympy (4 hours)
-5. pytorch and ChatGPT (as a tool for coding and research) (3 hours)
-
+1. Basic python and algorithmic approach.
+2. Numpy and matplotlib 
+4. Scipy and sympy 
 What we will do in this workshop:
 1. Understand the basics of formulating algorithms and translating them to codes.
 2. It is assumed that the participants are familiar with basic python syntax and hence won't cover python syntax specifically.
